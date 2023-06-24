@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoannaZag
 - 👀 I’m interested in software testing and board games in my free time
-- 🌱 I’m currently learning JAVA
 - 📫 How to reach me? You can write - zagorska.joasia@gmail.com
 
 <!---
